@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddInHelloWorld", "PowerPointWebAddInHelloWorld.csproj", "{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddInHelloWorldWeb", "..\PowerPointWebAddInHelloWorldWeb\PowerPointWebAddInHelloWorldWeb.csproj", "{1F04FD07-7395-4EE6-A8C5-0B63E9C8957F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92C927D-1F5D-4763-BAC4-57FCF1A763E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F04FD07-7395-4EE6-A8C5-0B63E9C8957F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F04FD07-7395-4EE6-A8C5-0B63E9C8957F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F04FD07-7395-4EE6-A8C5-0B63E9C8957F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F04FD07-7395-4EE6-A8C5-0B63E9C8957F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B98750-39CB-47B1-8031-AEE0FE3565F3}
+	EndGlobalSection
+EndGlobal
